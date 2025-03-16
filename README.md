@@ -3,7 +3,7 @@
 Este projeto é um simples sistema de sorteio de amigo secreto, onde o usuário pode cadastrar vários nomes e o sistema sorteará um nome aleatório.
 
 ## Teste o Projeto! 🧪
-   - Clique [aqui](https://victor-tilheri.github.io/ChallengeONE-Amigo-Secreto) para testar o sistema de sorteio de amigo secreto.
+   - Clique [aqui](https://shayenesreis.github.io/challenge-amigo-secreto-one/) para testar o sistema de sorteio de amigo secreto.
 
 ## Funcionalidades 🚀
 
