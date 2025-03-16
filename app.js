@@ -1,3 +1,4 @@
+
 let nameList = [];
 
 let listElement = document.getElementById("nameList");
